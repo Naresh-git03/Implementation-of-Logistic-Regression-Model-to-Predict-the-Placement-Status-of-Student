@@ -142,6 +142,5 @@ print(new_prediction[0])
 <img width="905" height="729" alt="633203192-c50edd0e-fcdd-45df-a4d0-e77c50f2895c" src="https://github.com/user-attachments/assets/20d11046-8511-4b6f-b6d6-27990974a70e" />
 
 <img width="972" height="620" alt="633203283-c8e8a68b-66a9-40db-af5c-16d6bac07f11" src="https://github.com/user-attachments/assets/cf75e07d-a799-4a23-ab93-8a6a5db6062b" />
-
 ## Result:
-Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
+Thus, the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
