@@ -33,7 +33,7 @@ Step 10: Evaluate the Model
 Step 11: Predict for a New Student
 
 ## Program:
-```
+```python
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: Naresh V
